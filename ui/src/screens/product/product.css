@@ -1,0 +1,35 @@
+
+
+.p-scrollpanel-bar-x, .p-scrollpanel-bar-y{
+   background-color: dodgerblue !important;
+}
+
+.p-speeddial-button{
+   width: 50px !important;
+   height: 50px !important;
+}
+
+.p-speeddial-action{
+   background-color:dodgerblue !important;
+}
+.p-speeddial-item{
+   margin:20px;
+}
+
+.cart:hover{
+   background-color:forestgreen !important;
+   color: white !important;
+}
+
+.p-overlaypanel-content, .p-overlaypanel{
+   opacity:0.9 !important;
+}
+
+p-dataview-layout-options p-selectbutton{
+   background-color: #CFB53B !important;
+}
+
+.p-dataview-header{
+   padding:0px !important;
+   margin:0px !important
+}

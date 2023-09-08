@@ -1,0 +1,18 @@
+
+.p-dataview-header{
+   padding:0px !important;
+   margin:0px !important;
+   align-items: center;
+}
+
+.p-dataview-header >div >div:first-child{
+   display: none;
+}
+
+.p-dataview-header >div >div:nth-child(2){
+   margin: 3px !important;
+}
+
+.p-dataview-header >div >div >div{
+   align-items: center;
+}

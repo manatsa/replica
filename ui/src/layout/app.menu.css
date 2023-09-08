@@ -1,0 +1,27 @@
+.p-panelmenu-header, .p-menuitem-text, .p-menuitem-icon, .p-panelmenu-icon {
+    color: dodgerblue !important;
+}
+
+.p-dialog {
+    background-color:transparent !important;
+}
+
+.p-dialog-titlebar{
+    background-color:transparent !important;
+}
+.p-dialog-title{
+    background-color:transparent !important;
+}
+.p-dialog-titlebar-icon{
+    background-color:transparent !important;
+}
+.p-dialog-titlebar-close{
+    background-color:transparent !important;
+}
+p-dialog-content{
+    background-color:transparent !important;
+}
+
+div >a.p-menubar-button{
+    display:none;
+}
